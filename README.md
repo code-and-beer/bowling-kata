@@ -1,5 +1,5 @@
-# codeAndBeerBowlingKata
-TDD Bowling Kata for Code and Beer Events
+# bowling-kata
+TDD ten-pin bowling kata
 
 
 ## Scoring ten-pin bowling
